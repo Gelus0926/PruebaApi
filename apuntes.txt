@@ -1,0 +1,15 @@
+*Cidenet
+*Ias
+*Ceiba
+*Acenture
+*Inter Software
+
+Simuladores de clientes
+Simuladores Clientes REST
+
+POSTMAN
+INSOMIUIA
+
+Api-->nombre de la api,cabecera
+
+PVA
