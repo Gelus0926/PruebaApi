@@ -13,3 +13,9 @@ INSOMIUIA
 Api-->nombre de la api,cabecera
 
 PVA
+
+
+URI = URL + EP
+
+PETICION{->headers->{}
+         ->method (Get,POST,PUT/DE..)
